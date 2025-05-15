@@ -1,6 +1,7 @@
 public class Demo{
-	public static void generateRdNumber(){
-	Random rd=new Random();
-	System.out.println(rd.nextLong());
+public static void main(String[] args){
+	  int i=10;
+	  System.out.println(i);
+
 	}
 }
